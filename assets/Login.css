@@ -1,0 +1,49 @@
+.gradient-custom-2 {
+    background: #ffffff;
+  }
+  
+  @media (min-width: 768px) {
+    .gradient-form {
+      height: 100vh !important;
+    }
+  }
+  
+  @media (min-width: 769px) {
+    .gradient-custom-2 {
+      border-top-right-radius: .3rem;
+      border-bottom-right-radius: .3rem;
+    }
+  }
+  
+  .custom-toggle-password {
+    height: 100%;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
+  .permission-checkbox {
+    margin-right: 10px;
+  }
+  
+  .form-check-label {
+    margin-left: 5px;
+  }
+  
+  #forgotPasswordModal {
+    margin: auto;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .card {
+    border-radius: 1rem;
+    background: #fff;
+  }
+  
+  .btn {
+    font-size: 1rem;
+  }
+  
